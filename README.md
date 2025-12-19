@@ -56,7 +56,7 @@ I am also learning **Frontend technologies** and **social media integrations** t
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsamy1205&show_icons=true&theme=default)
 
 ---
 
