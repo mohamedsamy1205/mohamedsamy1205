@@ -1,76 +1,65 @@
 # 👋 Hi, I'm Mohamed Sami
 
-🚀 Backend Java Developer | Spring Boot Enthusiast  
-🎓 Computer Engineering Student  
-🌍 Based in Egypt | Open to Work Abroad
+🚀 **Backend Java Developer | Spring Boot Enthusiast**  
+🎓 Computer Engineering Student | Egypt  
+🌍 Open to Work Abroad  
 
 ---
 
 ## 🧠 About Me
 
-I am a passionate **Backend Java Developer** with a strong foundation in **Spring Boot** and backend system design.  
-I enjoy building scalable, secure, and maintainable applications while continuously improving my problem-solving skills.
+I am a passionate **Backend Java Developer** with strong skills in **Java, Spring Boot, and backend system design**.  
+I enjoy building scalable, secure, and maintainable applications while continuously improving my skills.
 
-I have hands-on experience working with REST APIs, authentication systems, and database-driven applications.
+I am also learning **Frontend technologies** and **social media integrations** to create full-stack applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- RESTful APIs
-- JWT Authentication
-- WebSocket
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄 Databases
-- MySQL
-- H2
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0072C6?style=for-the-badge&logo=H2&logoColor=white)
 
-### 🧰 Tools & Others
-- Maven
-- Git & GitHub
-- Postman
-- IntelliJ IDEA
-- Linux Basics
+### 🧰 Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 📌 What I’m Currently Working On
 
 - Advanced Spring Boot concepts
-- WebSocket-based real-time applications
+- Real-time WebSocket applications
 - Backend architecture & clean code
 - Improving my English communication skills
 
 ---
 
-## 🎯 Career Goals
-
-- Become a professional backend engineer
-- Work on real-world, large-scale systems
-- Join a strong engineering team
-- Relocate and work abroad
-
----
-
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/your-username
-- 🔗 LinkedIn: *(Add your LinkedIn here)*
-- ✉️ Email: *(Optional)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samy-a8aa88336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201080930521)
 
 ---
 
-## ⭐ GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ---
 
-## 🤝 Let's Build Something Great
+## 🤝 Let’s Build Something Great
 
 Feel free to explore my repositories or reach out for collaboration!
