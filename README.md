@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Sami
 
-<!--
-**mohamedsamy1205/mohamedsamy1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Java Developer | Spring Boot Enthusiast  
+🎓 Computer Engineering Student  
+🌍 Based in Egypt | Open to Work Abroad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a passionate **Backend Java Developer** with a strong foundation in **Spring Boot** and backend system design.  
+I enjoy building scalable, secure, and maintainable applications while continuously improving my problem-solving skills.
+
+I have hands-on experience working with REST APIs, authentication systems, and database-driven applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- RESTful APIs
+- JWT Authentication
+- WebSocket
+
+### 🗄 Databases
+- MySQL
+- H2
+
+### 🧰 Tools & Others
+- Maven
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- Linux Basics
+
+---
+
+## 📌 What I’m Currently Working On
+
+- Advanced Spring Boot concepts
+- WebSocket-based real-time applications
+- Backend architecture & clean code
+- Improving my English communication skills
+
+---
+
+## 🎯 Career Goals
+
+- Become a professional backend engineer
+- Work on real-world, large-scale systems
+- Join a strong engineering team
+- Relocate and work abroad
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/your-username
+- 🔗 LinkedIn: *(Add your LinkedIn here)*
+- ✉️ Email: *(Optional)*
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+## 🤝 Let's Build Something Great
+
+Feel free to explore my repositories or reach out for collaboration!
