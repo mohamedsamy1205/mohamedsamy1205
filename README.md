@@ -13,6 +13,7 @@ I enjoy building scalable, secure, and maintainable applications while continuou
 
 I am also learning **Frontend technologies** and **social media integrations** to create full-stack applications.
 
+---
 # 🛠 My Skills & Tech Stack
 
 ### 💻 Languages
