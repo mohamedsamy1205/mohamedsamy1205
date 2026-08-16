@@ -66,9 +66,6 @@ I am also learning **Frontend technologies** and **social media integrations** t
 ---
 
 
-
----
-
 ## 🤝 Let’s Build Something Great
 
 Feel free to explore my repositories or reach out for collaboration!
