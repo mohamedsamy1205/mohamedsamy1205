@@ -15,16 +15,35 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download stats cards
+      - name: Generate cards
+        env:
+          PAT_1: ${{ secrets.STATS_TOKEN }}
+          USER: ${{ github.repository_owner }}
         run: |
           mkdir -p profile
-          USER="${{ github.repository_owner }}"
-          curl -fsSL --retry 5 --retry-delay 10 \
-            "https://github-readme-stats.vercel.app/api?username=${USER}&show_icons=true&theme=tokyonight&hide_border=true" \
-            -o profile/stats.svg
-          curl -fsSL --retry 5 --retry-delay 10 \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&layout=compact&theme=tokyonight&hide_border=true" \
-            -o profile/top-langs.svg
+          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/grs
+          cd /tmp/grs
+          npm install --no-audit --no-fund
+          cat > gen.js <<'EOF'
+          const fs = require("fs");
+          const stats = require("./api/index.js");
+          const langs = require("./api/top-langs.js");
+          const run = async (handler, query, out) => {
+            let body = "";
+            const res = {
+              setHeader() {},
+              send(b) { body = b; },
+            };
+            await handler({ query }, res);
+            fs.writeFileSync(out, body);
+          };
+          (async () => {
+            const user = process.env.USER;
+            await run(stats, { username: user, show_icons: "true", theme: "tokyonight", hide_border: "true" }, process.env.GITHUB_WORKSPACE + "/profile/stats.svg");
+            await run(langs, { username: user, layout: "compact", theme: "tokyonight", hide_border: "true" }, process.env.GITHUB_WORKSPACE + "/profile/top-langs.svg");
+          })();
+          EOF
+          node gen.js
 
       - name: Commit generated cards
         run: |
